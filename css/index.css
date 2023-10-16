@@ -1,5 +1,3 @@
-index.css
-
 body{
 margin: 0;
 padding: 0;
@@ -21,13 +19,13 @@ background: #8C93A8;
 
 }
 
-.name.content.p-1{
+.name .content.p-1{
     color: white;
     font-family: 'Merriweather', serif;
     font-weight: bolder;
     font-size: 65px;
 }
-.name.content.p2{
+.name .content.p2{
     color: #465362;
     font-family: 'Merriweather', serif;
     font-weight: bolder;
